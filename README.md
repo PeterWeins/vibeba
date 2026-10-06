@@ -4,7 +4,7 @@ Ein Le.pApP-Tool zur Ersteinschätzung und Förderplanung im Bereich emotionale 
 
 **Direkt im Browser öffnen:** https://peterweins.github.io/vibeba/
 
-Testfassung 1.0 RC 1 · Stand 01.10.2026
+Testfassung 1.0 RC 15 · Stand 05.10.2026
 
 Konzeptionelle Grundlage: [Gehaltene Balance](https://peterweins.github.io/gehaltene-balance/)
 
