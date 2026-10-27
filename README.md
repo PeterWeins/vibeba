@@ -13,6 +13,8 @@ Alle Eingaben bleiben im Browser des Geräts; es werden keine Daten an einen Ser
 Konzept & Design: P. Weins · realisiert mit Claude (Anthropic)
 Le.pApP · ©w1pet
 
+**Alle Le.pApP-Werkzeuge:** https://lepapp-inklusiv.de/
+
 ## Rechte
 
 © P. Weins – alle Rechte vorbehalten. Näheres in der Datei [LICENSE](LICENSE).
